@@ -7,8 +7,10 @@
         </div>
         <nav class="header-nav">
           <router-link to="/">首页</router-link>
-          <router-link to="/about">关于</router-link>
-          <router-link to="/live">直播</router-link>
+          <router-link to="/videos">视频列表</router-link>
+          <router-link to="/publish">发布视频</router-link>
+          <router-link to="/login">登录/注册</router-link>
+          <router-link to="/profile">个人中心</router-link>
         </nav>
       </div>
     </header>
